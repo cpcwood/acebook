@@ -270,7 +270,7 @@ PLATFORMS
 
 DEPENDENCIES
   bcrypt
-  bootstrap-sass (~> 3.3.6)
+  bootstrap-sass
   byebug
   capybara (~> 2.13)
   database_cleaner-active_record
